@@ -1,0 +1,2047 @@
+{
+    "transform": {
+        "k": 0.5743491774985179,
+        "x": 217.1673784963991,
+        "y": 25.14841018002744
+    },
+    "state": {
+        "isOpen": false,
+        "selectedNode": 3,
+        "mousePositionClick": {
+            "top": 151.1875,
+            "left": 426
+        },
+        "menuPosition": {
+            "top": 355,
+            "left": 426
+        },
+        "currentFloor": 0,
+        "data": [
+            {
+                "nodes": [
+                    {
+                        "id": "LadderL/Pha1",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": -82.41036224365234,
+                        "y": -6.773575067520142,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "103/Fiz",
+                        "name": "Name",
+                        "mac": "point216",
+                        "isDestinct": false,
+                        "isPhantom": false,
+                        "x": -205.99999999999994,
+                        "y": -29.31249999999998,
+                        "events": "",
+                        "broadcast": "Вы между аудиториями Г103 и Г101"
+                    },
+                    {
+                        "id": "103/Pha1",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": -264.9999999999999,
+                        "y": -6.312499999999982,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "103/Pha2",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": -146.99999999999994,
+                        "y": -6.312499999999993,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "LadderL/Fiz",
+                        "name": "Name",
+                        "mac": "point184",
+                        "isDestinct": false,
+                        "isPhantom": false,
+                        "x": -18.650904178619385,
+                        "y": -40.020928502082825,
+                        "events": "",
+                        "broadcast": "Вы между аудиторией Г104 и лестницей"
+                    },
+                    {
+                        "id": "WCLeft/Fiz",
+                        "name": "Name",
+                        "mac": "point188",
+                        "isDestinct": false,
+                        "isPhantom": false,
+                        "x": 303.1828308105469,
+                        "y": -27.765573501586914,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "WCLeft/Pha1",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": 247.31546257553805,
+                        "y": -6.447437431759596,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "LadderL/Pha2",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": 27.57807858641354,
+                        "y": -10.12176090352989,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "105/Fiz",
+                        "name": "Name",
+                        "mac": "point198",
+                        "isDestinct": false,
+                        "isPhantom": false,
+                        "x": 140.49999999999994,
+                        "y": -32.812499999999986,
+                        "events": "",
+                        "broadcast": "Вы возле аудитории Г105"
+                    },
+                    {
+                        "id": "105/Pha2",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": 194.08251953124994,
+                        "y": -7.683050632476785,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "105/Pha1",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": 86.6280364990234,
+                        "y": -7.8198382854461315,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "WCLeft/Pha2",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": 378.22269709025045,
+                        "y": -6.750036544179238,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "110/Pha1",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": 405.8705444335936,
+                        "y": -51.74777507781981,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "110/Fiz",
+                        "name": "Name",
+                        "mac": "point182",
+                        "isDestinct": false,
+                        "isPhantom": false,
+                        "x": 478.5207519531248,
+                        "y": -51.673484802246065,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "110/Pha2",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": 553.9999999999998,
+                        "y": -56.42415237426755,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "111/Pha1",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": 588.9999999999998,
+                        "y": -11.31249999999998,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "111/Fiz",
+                        "name": "Name",
+                        "mac": "point184",
+                        "isDestinct": false,
+                        "isPhantom": false,
+                        "x": 647.4792480468748,
+                        "y": -11.422341346740708,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "111/Pha2",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": 700.9793090820309,
+                        "y": -11.632007598876935,
+                        "events": "",
+                        "broadcast": "Вы возле аудиторий Г111 и Г112"
+                    },
+                    {
+                        "id": "G103",
+                        "name": "Г-103",
+                        "mac": "PHANTOM#",
+                        "isDestinct": true,
+                        "isPhantom": true,
+                        "x": -264.9748064752737,
+                        "y": -87.43411564303219,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "G101",
+                        "name": "Г-101",
+                        "mac": "PHANTOM#",
+                        "isDestinct": true,
+                        "isPhantom": true,
+                        "x": -264.9128559836009,
+                        "y": 47.15569365491234,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "G104",
+                        "name": "Г-104",
+                        "mac": "PHANTOM#",
+                        "isDestinct": true,
+                        "isPhantom": true,
+                        "x": -24.10269234139429,
+                        "y": -86.11460091857761,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "LadderL",
+                        "name": "Лестница в левом крыле",
+                        "mac": "PHANTOM#",
+                        "isDestinct": true,
+                        "isPhantom": true,
+                        "x": -26.081955179214447,
+                        "y": 30.002089735284926,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "G105",
+                        "name": "Г-105",
+                        "mac": "PHANTOM#",
+                        "isDestinct": true,
+                        "isPhantom": true,
+                        "x": 139.5162966916827,
+                        "y": 28.682580660930245,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "WCLeft",
+                        "name": "Туалет в левом крыле",
+                        "mac": "PHANTOM#",
+                        "isDestinct": true,
+                        "isPhantom": true,
+                        "x": 303.1352609292275,
+                        "y": 32.64110633657056,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "G111",
+                        "name": "Г-111",
+                        "mac": "PHANTOM#",
+                        "isDestinct": true,
+                        "isPhantom": true,
+                        "x": 700.3071547394314,
+                        "y": -69.62074927488199,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "G112",
+                        "name": "Г-112",
+                        "mac": "PHANTOM#",
+                        "isDestinct": true,
+                        "isPhantom": true,
+                        "x": 766.0391743200129,
+                        "y": -11.854947091127393,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "115/Pha1",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": 549.4556820300102,
+                        "y": 21.631275003985465,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "115/Fiz",
+                        "name": "Name",
+                        "mac": "point210",
+                        "isDestinct": false,
+                        "isPhantom": false,
+                        "x": 457.8685903080616,
+                        "y": 80.67070584767566,
+                        "events": "",
+                        "broadcast": "Вы возле аудитории Г115"
+                    },
+                    {
+                        "id": "115/Pha2",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": 480.6043331530571,
+                        "y": 135.9063070713171,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "118/Pha1",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": 480.53002829634283,
+                        "y": 193.8338173572061,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "118/Fiz",
+                        "name": "Name",
+                        "mac": "point228",
+                        "isDestinct": false,
+                        "isPhantom": false,
+                        "x": 457.2199475422007,
+                        "y": 255.54094424970606,
+                        "events": "",
+                        "broadcast": "Вы между аудиториями Г118 и Г116"
+                    },
+                    {
+                        "id": "118/Pha2",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": 481.95564606641204,
+                        "y": 316.0140565308116,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "123/Pha1",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": 483.2581304784551,
+                        "y": 547.4318473940439,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "G123",
+                        "name": "Г-123",
+                        "mac": "PHANTOM#",
+                        "isDestinct": true,
+                        "isPhantom": true,
+                        "x": 385.3204891589164,
+                        "y": 602.6371468459815,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "120/Pha1",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": 482.3813023349336,
+                        "y": 372.68127498696697,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "120/Fiz",
+                        "name": "Name",
+                        "mac": "point225",
+                        "isDestinct": false,
+                        "isPhantom": false,
+                        "x": 454.9149297948613,
+                        "y": 428.62177087865996,
+                        "events": "",
+                        "broadcast": "Вы возле аудитории Г120"
+                    },
+                    {
+                        "id": "123/Pha2",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": 477.92287563352573,
+                        "y": 656.4285692605873,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "120/Pha2",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": 482.70075743158003,
+                        "y": 489.8145360625028,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "G115",
+                        "name": "Г-115",
+                        "mac": "PHANTOM#",
+                        "isDestinct": true,
+                        "isPhantom": true,
+                        "x": 547.0691643281148,
+                        "y": 80.1944499790399,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "G118",
+                        "name": "Г-118",
+                        "mac": "PHANTOM#",
+                        "isDestinct": true,
+                        "isPhantom": true,
+                        "x": 396.7388697472284,
+                        "y": 255.88919381024897,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "G116",
+                        "name": "Г-116",
+                        "mac": "PHANTOM#",
+                        "isDestinct": true,
+                        "isPhantom": true,
+                        "x": 546.7736437462161,
+                        "y": 252.1014726281035,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "G120",
+                        "name": "Г-120",
+                        "mac": "PHANTOM#",
+                        "isDestinct": true,
+                        "isPhantom": true,
+                        "x": 387.9453505518868,
+                        "y": 428.1360431434608,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "123/Fiz",
+                        "name": "Name",
+                        "mac": "point219",
+                        "isDestinct": false,
+                        "isPhantom": false,
+                        "x": 452.31416205848296,
+                        "y": 603.2797266748858,
+                        "events": "",
+                        "broadcast": "Вы возле аудитории Г123"
+                    },
+                    {
+                        "id": "IRTSU/Pha1",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": 400.2517018579014,
+                        "y": 705.4171820980341,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "IRTSU/Fiz",
+                        "name": "Name",
+                        "mac": "point230",
+                        "isDestinct": false,
+                        "isPhantom": false,
+                        "x": 488.1265193585775,
+                        "y": 705.0516120434507,
+                        "events": "",
+                        "broadcast": "Вы возле входа в левое крыло"
+                    },
+                    {
+                        "id": "IRTSU/Pha2",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": 574.0750520485506,
+                        "y": 704.9890967639976,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "Center/Pha2",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": 576.1989506317545,
+                        "y": 757.377760199432,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "Center/Fiz",
+                        "name": "Name",
+                        "mac": "point231",
+                        "isDestinct": false,
+                        "isPhantom": false,
+                        "x": 574.5710560684992,
+                        "y": 814.5676365645571,
+                        "events": "",
+                        "broadcast": "Вы по центру первого этажа"
+                    },
+                    {
+                        "id": "Center/Pha1",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": 576.3283246262703,
+                        "y": 863.4078576576904,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "ICTIS/Pha2",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": 574.8159033777785,
+                        "y": 926.7430827821536,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "ICTIS/Fiz",
+                        "name": "Name",
+                        "mac": "point208",
+                        "isDestinct": false,
+                        "isPhantom": false,
+                        "x": 493.7250669868163,
+                        "y": 926.7430217194453,
+                        "events": "",
+                        "broadcast": "Вы возле входа в правое крыло"
+                    },
+                    {
+                        "id": "ICTIS/Pha1",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": 406.3878470597341,
+                        "y": 925.2272442004348,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "ExitMain/Pha1",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": 634.3993118936245,
+                        "y": 814.4010671941169,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "ExitMain/Fiz",
+                        "name": "Name",
+                        "mac": "point232",
+                        "isDestinct": false,
+                        "isPhantom": false,
+                        "x": 701.8993118936244,
+                        "y": 815.9010671941169,
+                        "events": "",
+                        "broadcast": "Вы внутри корпуса Г перед вами турникет Справа от вас находится охрана, спросите о помощи"
+                    },
+                    {
+                        "id": "ExitMain/Pha2",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": 765.3993118936243,
+                        "y": 814.9010671941169,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "ExitMain",
+                        "name": "Выход из корпуса",
+                        "mac": "PHANTOM#",
+                        "isDestinct": true,
+                        "isPhantom": true,
+                        "x": 764.8993118936241,
+                        "y": 757.401067194117,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "125/Pha2",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": 481.9250646516365,
+                        "y": 973.2715477551751,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "125/Fiz",
+                        "name": "Name",
+                        "mac": "point192",
+                        "isDestinct": false,
+                        "isPhantom": false,
+                        "x": 471.58363385664035,
+                        "y": 1031.596603393858,
+                        "events": "",
+                        "broadcast": "Вы возле аудитории Г125"
+                    },
+                    {
+                        "id": "125/Pha1",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": 491.6106235241739,
+                        "y": 1089.9390127153601,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "126/Pha2",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": 491.61060233208303,
+                        "y": 1146.524750815724,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "126/Fiz",
+                        "name": "Name",
+                        "mac": "point221",
+                        "isDestinct": false,
+                        "isPhantom": false,
+                        "x": 476.0661626086307,
+                        "y": 1206.3674405323306,
+                        "events": "",
+                        "broadcast": "Вы между аудиториями Г126 и Г127"
+                    },
+                    {
+                        "id": "126/Pha1",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": 492.91641885153996,
+                        "y": 1262.743327506102,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "131/Pha2",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": 493.35169732897293,
+                        "y": 1317.1526916084083,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "131/Fiz",
+                        "name": "Name",
+                        "mac": "point186",
+                        "isDestinct": false,
+                        "isPhantom": false,
+                        "x": 470.1961737520793,
+                        "y": 1374.6570847769456,
+                        "events": "",
+                        "broadcast": "Вы возле аудитории Г131"
+                    },
+                    {
+                        "id": "131/Pha1",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": 495.52805241418866,
+                        "y": 1432.9359959510557,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "133/Pha2",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": 496.7154893648398,
+                        "y": 1488.0206678874629,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "133/Fiz",
+                        "name": "Name",
+                        "mac": "point227",
+                        "isDestinct": false,
+                        "isPhantom": false,
+                        "x": 465.53059855230265,
+                        "y": 1545.3642944544376,
+                        "events": "",
+                        "broadcast": "Вы между аудиториями Г133 и Г132"
+                    },
+                    {
+                        "id": "133/Pha1",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": 494.4743761097766,
+                        "y": 1602.5627391839832,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "G125",
+                        "name": "Г-125",
+                        "mac": "PHANTOM#",
+                        "isDestinct": true,
+                        "isPhantom": true,
+                        "x": 407.77705952660347,
+                        "y": 1033.2775300368535,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "G126",
+                        "name": "Г-126",
+                        "mac": "PHANTOM#",
+                        "isDestinct": true,
+                        "isPhantom": true,
+                        "x": 404.5494136870201,
+                        "y": 1205.899937654507,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "G127",
+                        "name": "Г-127",
+                        "mac": "PHANTOM#",
+                        "isDestinct": true,
+                        "isPhantom": true,
+                        "x": 569.76247374983,
+                        "y": 1205.1421250994028,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "G131",
+                        "name": "Г-131",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": 407.5808468613689,
+                        "y": 1375.6602541663794,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "G133",
+                        "name": "Г-133",
+                        "mac": "PHANTOM#",
+                        "isDestinct": true,
+                        "isPhantom": true,
+                        "x": 406.8229734364208,
+                        "y": 1545.4204943360903,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "G132",
+                        "name": "Г-132",
+                        "mac": "PHANTOM#",
+                        "isDestinct": true,
+                        "isPhantom": true,
+                        "x": 543.2374489500389,
+                        "y": 1546.1783220604393,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "WCRight/Pha2",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": 390.113705499101,
+                        "y": 1707.2564428653786,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "WCRight/Fiz",
+                        "name": "Name",
+                        "mac": "point213",
+                        "isDestinct": false,
+                        "isPhantom": false,
+                        "x": 316.2211878332997,
+                        "y": 1697.3604782488117,
+                        "events": "",
+                        "broadcast": "Вы между аудиторией Г137 и туалетом"
+                    },
+                    {
+                        "id": "WCRight/Pha1",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": 253.54461178262704,
+                        "y": 1713.854104489361,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "139/Pha2",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": 197.40501918064137,
+                        "y": 1713.5300073284686,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "139/Fiz",
+                        "name": "Name",
+                        "mac": "point191",
+                        "isDestinct": false,
+                        "isPhantom": false,
+                        "x": 138.30778963947046,
+                        "y": 1696.0928736496146,
+                        "events": "",
+                        "broadcast": "Вы возле аудитории Г139"
+                    },
+                    {
+                        "id": "139/Pha1",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": 77.8077896394706,
+                        "y": 1716.0928736496146,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "LadderR/Pha2",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": 9.807789639470798,
+                        "y": 1717.0928736496146,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "LadderR/Fiz",
+                        "name": "Name",
+                        "mac": "point183",
+                        "isDestinct": false,
+                        "isPhantom": false,
+                        "x": -41.192210360529046,
+                        "y": 1692.5928736496146,
+                        "events": "",
+                        "broadcast": "Вы возле лестницы в правом крыле"
+                    },
+                    {
+                        "id": "LadderR/Pha1",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": -95.69221036052895,
+                        "y": 1717.5928736496146,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "LadderR",
+                        "name": "Лестница в правом крыле",
+                        "mac": "PHANTOM#",
+                        "isDestinct": true,
+                        "isPhantom": true,
+                        "x": -95.94372194765423,
+                        "y": 1650.4086093373026,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "G139",
+                        "name": "Г-139",
+                        "mac": "PHANTOM#",
+                        "isDestinct": true,
+                        "isPhantom": true,
+                        "x": 138.50935298177103,
+                        "y": 1636.089095284669,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "WCRight",
+                        "name": "Туалет в правом крыле",
+                        "mac": "PHANTOM#",
+                        "isDestinct": true,
+                        "isPhantom": true,
+                        "x": 319.5199983005955,
+                        "y": 1641.2810907039916,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "G137",
+                        "name": "Г-137",
+                        "mac": "PHANTOM#",
+                        "isDestinct": true,
+                        "isPhantom": true,
+                        "x": 314.00390098797226,
+                        "y": 1748.2472462036567,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "135/Pha1",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": 434.22541227172826,
+                        "y": 1704.6011266560354,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "135/Pha2",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": 496.8532872220442,
+                        "y": 1653.8629546034203,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "135/Fiz",
+                        "name": "Name",
+                        "mac": "point204",
+                        "isDestinct": false,
+                        "isPhantom": false,
+                        "x": 499.7250803414869,
+                        "y": 1702.6824171269743,
+                        "events": "",
+                        "broadcast": "Вы возле аудитории Г135"
+                    },
+                    {
+                        "id": "G135",
+                        "name": "Г-135",
+                        "mac": "PHANTOM#",
+                        "isDestinct": true,
+                        "isPhantom": true,
+                        "x": 501.5939860778145,
+                        "y": 1749.7887906324306,
+                        "events": "",
+                        "broadcast": ""
+                    },
+                    {
+                        "id": "Pereval",
+                        "name": "Name",
+                        "mac": "PHANTOM#",
+                        "isDestinct": false,
+                        "isPhantom": true,
+                        "x": 478.8867991189083,
+                        "y": -10.794723816263087,
+                        "events": "",
+                        "broadcast": ""
+                    }
+                ],
+                "links": [
+                    {
+                        "source": "103/Fiz",
+                        "target": "103/Pha1",
+                        "weight": 63.3245607959502,
+                        "events": "Слева от вас аудитория Г-101, справа Г-103"
+                    },
+                    {
+                        "source": "103/Pha1",
+                        "target": "103/Fiz",
+                        "weight": 63.3245607959502,
+                        "events": ""
+                    },
+                    {
+                        "source": "103/Fiz",
+                        "target": "103/Pha2",
+                        "weight": 63.32456079595025,
+                        "events": "Слева от вас аудитория Г-103, справа Г-101"
+                    },
+                    {
+                        "source": "103/Pha2",
+                        "target": "103/Fiz",
+                        "weight": 63.32456079595025,
+                        "events": ""
+                    },
+                    {
+                        "source": "LadderL/Pha1",
+                        "target": "LadderL/Fiz",
+                        "weight": 61.922254926374585,
+                        "events": ""
+                    },
+                    {
+                        "source": "LadderL/Fiz",
+                        "target": "LadderL/Pha1",
+                        "weight": 61.922254926374585,
+                        "events": "Справа от вас аудитория Г-104, слева лестница"
+                    },
+                    {
+                        "source": "LadderL/Pha1",
+                        "target": "103/Pha2",
+                        "weight": 64.5912834344859,
+                        "events": "Сделайте 6 шагов вперед.  Остановитесь и ждите дальнейших указаний."
+                    },
+                    {
+                        "source": "103/Pha2",
+                        "target": "LadderL/Pha1",
+                        "weight": 64.5912834344859,
+                        "events": "Сделайте 6 шагов вперед.  Остановитесь и ждите дальнейших указаний."
+                    },
+                    {
+                        "source": "LadderL/Pha2",
+                        "target": "LadderL/Fiz",
+                        "weight": 51.51929412583096,
+                        "events": ""
+                    },
+                    {
+                        "source": "LadderL/Fiz",
+                        "target": "LadderL/Pha2",
+                        "weight": 51.51929412583096,
+                        "events": "слева от вас аудитория Г-104, справа лестница"
+                    },
+                    {
+                        "source": "LadderL/Pha2",
+                        "target": "105/Pha1",
+                        "weight": 73.36500794101997,
+                        "events": "Сделайте 10 шагов вперед.  Остановитесь и ждите дальнейших указаний."
+                    },
+                    {
+                        "source": "105/Pha1",
+                        "target": "LadderL/Pha2",
+                        "weight": 73.36500794101997,
+                        "events": "Сделайте 10 шагов вперед.  Остановитесь и ждите дальнейших указаний."
+                    },
+                    {
+                        "source": "105/Pha1",
+                        "target": "105/Fiz",
+                        "weight": 59.38704901768293,
+                        "events": ""
+                    },
+                    {
+                        "source": "105/Fiz",
+                        "target": "105/Pha1",
+                        "weight": 59.38704901768293,
+                        "events": "слева от вас аудитория Г-105"
+                    },
+                    {
+                        "source": "105/Pha2",
+                        "target": "WCLeft/Pha1",
+                        "weight": 58.43741129662709,
+                        "events": "Сделайте 10 шагов вперед.  Остановитесь и ждите дальнейших указаний."
+                    },
+                    {
+                        "source": "WCLeft/Pha1",
+                        "target": "105/Pha2",
+                        "weight": 58.43741129662709,
+                        "events": "Сделайте 10 шагов вперед.  Остановитесь и ждите дальнейших указаний."
+                    },
+                    {
+                        "source": "105/Pha2",
+                        "target": "105/Fiz",
+                        "weight": 62.7087167543004,
+                        "events": ""
+                    },
+                    {
+                        "source": "105/Fiz",
+                        "target": "105/Pha2",
+                        "weight": 62.7087167543004,
+                        "events": "Справа от вас аудитория Г-105"
+                    },
+                    {
+                        "source": "WCLeft/Fiz",
+                        "target": "WCLeft/Pha1",
+                        "weight": 53.1709097454927,
+                        "events": "Слева  от вас туалет"
+                    },
+                    {
+                        "source": "WCLeft/Pha1",
+                        "target": "WCLeft/Fiz",
+                        "weight": 53.1709097454927,
+                        "events": ""
+                    },
+                    {
+                        "source": "WCLeft/Fiz",
+                        "target": "WCLeft/Pha2",
+                        "weight": 57.0654711556283,
+                        "events": "Справа от вас туалет"
+                    },
+                    {
+                        "source": "WCLeft/Pha2",
+                        "target": "WCLeft/Fiz",
+                        "weight": 57.0654711556283,
+                        "events": ""
+                    },
+                    {
+                        "source": "110/Pha1",
+                        "target": "WCLeft/Pha2",
+                        "weight": 69.92947123411764,
+                        "events": "Поверните налево и Сделайте 6 шагов вперед.  Остановитесь и ждите дальнейших указаний."
+                    },
+                    {
+                        "source": "WCLeft/Pha2",
+                        "target": "110/Pha1",
+                        "weight": 69.92947123411764,
+                        "events": "Сделайте 6 шагов вперед и поверните направо"
+                    },
+                    {
+                        "source": "110/Pha2",
+                        "target": "111/Pha1",
+                        "weight": 58.50010654907117,
+                        "events": "поверните направо и Сделайте 6 шагов вперед.  Остановитесь и ждите дальнейших указаний."
+                    },
+                    {
+                        "source": "111/Pha1",
+                        "target": "110/Pha2",
+                        "weight": 58.50010654907117,
+                        "events": "Сделайте 6 шагов вперед и поверните налево"
+                    },
+                    {
+                        "source": "111/Fiz",
+                        "target": "111/Pha1",
+                        "weight": 62.40592920548496,
+                        "events": "Сзади вас аудитория Г-112, справа Г-111"
+                    },
+                    {
+                        "source": "111/Pha1",
+                        "target": "111/Fiz",
+                        "weight": 62.40592920548496,
+                        "events": ""
+                    },
+                    {
+                        "source": "111/Fiz",
+                        "target": "111/Pha2",
+                        "weight": 60.15396911260294,
+                        "events": "Слева от вас аудитория Г-111, спереди Г-112"
+                    },
+                    {
+                        "source": "111/Pha2",
+                        "target": "111/Fiz",
+                        "weight": 60.15396911260294,
+                        "events": ""
+                    },
+                    {
+                        "source": "110/Fiz",
+                        "target": "110/Pha2",
+                        "weight": 56.29990983597843,
+                        "events": ""
+                    },
+                    {
+                        "source": "110/Pha2",
+                        "target": "110/Fiz",
+                        "weight": 56.29990983597843,
+                        "events": ""
+                    },
+                    {
+                        "source": "110/Fiz",
+                        "target": "110/Pha1",
+                        "weight": 63.66830831735414,
+                        "events": ""
+                    },
+                    {
+                        "source": "110/Pha1",
+                        "target": "110/Fiz",
+                        "weight": 63.66830831735414,
+                        "events": ""
+                    },
+                    {
+                        "source": "111/Pha2",
+                        "target": "G111",
+                        "weight": 58.66306628727088,
+                        "events": ""
+                    },
+                    {
+                        "source": "111/Pha2",
+                        "target": "G112",
+                        "weight": 42.31404522469581,
+                        "events": ""
+                    },
+                    {
+                        "source": "WCLeft/Fiz",
+                        "target": "WCLeft",
+                        "weight": 64.28746229966123,
+                        "events": "поверните налево"
+                    },
+                    {
+                        "source": "105/Fiz",
+                        "target": "G105",
+                        "weight": 60.19801129123329,
+                        "events": "поверните налево"
+                    },
+                    {
+                        "source": "LadderL/Fiz",
+                        "target": "LadderL",
+                        "weight": 62.47948721923533,
+                        "events": "Поверните налево"
+                    },
+                    {
+                        "source": "LadderL/Fiz",
+                        "target": "G104",
+                        "weight": 53.83554438848197,
+                        "events": "Поверните направо"
+                    },
+                    {
+                        "source": "115/Fiz",
+                        "target": "115/Pha1",
+                        "weight": 41.92750190387836,
+                        "events": "Справа от вас аудитория Г-115"
+                    },
+                    {
+                        "source": "115/Pha1",
+                        "target": "115/Fiz",
+                        "weight": 41.92750190387836,
+                        "events": ""
+                    },
+                    {
+                        "source": "115/Fiz",
+                        "target": "G115",
+                        "weight": 68.93149003926702,
+                        "events": "Поверните направо"
+                    },
+                    {
+                        "source": "115/Fiz",
+                        "target": "115/Pha2",
+                        "weight": 41.93141443987775,
+                        "events": "Слева от вас аудитория Г-115"
+                    },
+                    {
+                        "source": "115/Pha2",
+                        "target": "115/Fiz",
+                        "weight": 41.93141443987775,
+                        "events": ""
+                    },
+                    {
+                        "source": "120/Fiz",
+                        "target": "120/Pha1",
+                        "weight": 65.13260365506669,
+                        "events": "Слева от вас аудитория Г-120"
+                    },
+                    {
+                        "source": "120/Pha1",
+                        "target": "120/Fiz",
+                        "weight": 65.13260365506669,
+                        "events": ""
+                    },
+                    {
+                        "source": "120/Fiz",
+                        "target": "120/Pha2",
+                        "weight": 60.05073558991663,
+                        "events": "Справа от вас аудитория Г-120"
+                    },
+                    {
+                        "source": "120/Pha2",
+                        "target": "120/Fiz",
+                        "weight": 60.05073558991663,
+                        "events": ""
+                    },
+                    {
+                        "source": "118/Pha2",
+                        "target": "118/Fiz",
+                        "weight": 52.2318502169591,
+                        "events": ""
+                    },
+                    {
+                        "source": "118/Fiz",
+                        "target": "118/Pha2",
+                        "weight": 52.2318502169591,
+                        "events": "Справа от вас аудитория Г-118, слева Г-116"
+                    },
+                    {
+                        "source": "118/Pha2",
+                        "target": "120/Pha1",
+                        "weight": 62.41216973474354,
+                        "events": "Сделайте 12 шагов вперед.  Остановитесь и ждите дальнейших указаний."
+                    },
+                    {
+                        "source": "120/Pha1",
+                        "target": "118/Pha2",
+                        "weight": 62.41216973474354,
+                        "events": "Сделайте 12 шагов вперед.  Остановитесь и ждите дальнейших указаний."
+                    },
+                    {
+                        "source": "118/Pha1",
+                        "target": "115/Pha2",
+                        "weight": 45.87875070374244,
+                        "events": "Сделайте 7 шагов вперед.  Остановитесь и ждите дальнейших указаний."
+                    },
+                    {
+                        "source": "115/Pha2",
+                        "target": "118/Pha1",
+                        "weight": 45.87875070374244,
+                        "events": "Сделайте 7 шагов вперед.  Остановитесь и ждите дальнейших указаний."
+                    },
+                    {
+                        "source": "118/Pha1",
+                        "target": "118/Fiz",
+                        "weight": 48.133497182144595,
+                        "events": ""
+                    },
+                    {
+                        "source": "118/Fiz",
+                        "target": "118/Pha1",
+                        "weight": 48.133497182144595,
+                        "events": "Справа от вас аудитория Г-116, слева Г-118"
+                    },
+                    {
+                        "source": "120/Pha2",
+                        "target": "123/Pha1",
+                        "weight": 57.62000720052989,
+                        "events": "Сделайте 9 шагов вперед.  Остановитесь и ждите дальнейших указаний."
+                    },
+                    {
+                        "source": "123/Pha1",
+                        "target": "120/Pha2",
+                        "weight": 57.62000720052989,
+                        "events": "Сделайте 9 шагов вперед.  Остановитесь и ждите дальнейших указаний."
+                    },
+                    {
+                        "source": "123/Fiz",
+                        "target": "123/Pha1",
+                        "weight": 69.10285654239898,
+                        "events": "Слева от вас аудитория Г-123"
+                    },
+                    {
+                        "source": "123/Pha1",
+                        "target": "123/Fiz",
+                        "weight": 69.10285654239898,
+                        "events": ""
+                    },
+                    {
+                        "source": "123/Fiz",
+                        "target": "123/Pha2",
+                        "weight": 69.61752229816774,
+                        "events": "Справа от вас аудитория Г-120"
+                    },
+                    {
+                        "source": "123/Pha2",
+                        "target": "123/Fiz",
+                        "weight": 69.61752229816774,
+                        "events": ""
+                    },
+                    {
+                        "source": "118/Fiz",
+                        "target": "G116",
+                        "weight": 77.65165892976165,
+                        "events": "Поверните направо если вы пришли от Г120, если от г115 то налево"
+                    },
+                    {
+                        "source": "118/Fiz",
+                        "target": "G118",
+                        "weight": 91.91758254797833,
+                        "events": "Поверните налево если вы пришли от Г120, если от г115 то направо"
+                    },
+                    {
+                        "source": "120/Fiz",
+                        "target": "G120",
+                        "weight": 94.47698205694682,
+                        "events": "Поверните направо если вы пришли от Г128, если от г123 то налево"
+                    },
+                    {
+                        "source": "123/Fiz",
+                        "target": "G123",
+                        "weight": 94.48196204946457,
+                        "events": "Поверните направо если вы пришли от Г120, если от центра то налево"
+                    },
+                    {
+                        "source": "IRTSU/Fiz",
+                        "target": "IRTSU/Pha2",
+                        "weight": 68.98634818017733,
+                        "events": ""
+                    },
+                    {
+                        "source": "IRTSU/Pha2",
+                        "target": "IRTSU/Fiz",
+                        "weight": 68.98634818017733,
+                        "events": ""
+                    },
+                    {
+                        "source": "IRTSU/Fiz",
+                        "target": "IRTSU/Pha1",
+                        "weight": 63.148545170884226,
+                        "events": ""
+                    },
+                    {
+                        "source": "IRTSU/Pha1",
+                        "target": "IRTSU/Fiz",
+                        "weight": 63.148545170884226,
+                        "events": ""
+                    },
+                    {
+                        "source": "IRTSU/Pha1",
+                        "target": "123/Pha2",
+                        "weight": 70.34880160673404,
+                        "events": "Сделайте два шага по лестнице из двух ступеней, после чего сделайте еще два шага и откройте дверь на себя и сделайте еще 9 шагов, осторожно, слева от вас будет небольшое углубление в полу.  Остановитесь и ждите дальнейших указаний."
+                    },
+                    {
+                        "source": "123/Pha2",
+                        "target": "IRTSU/Pha1",
+                        "weight": 70.34880160673404,
+                        "events": "Сделайте 9 шагов вперед после чего откройте дверь от себя и сделайте еще два шага затем спуститесь по лестнице из двух ступеней.  Остановитесь и ждите дальнейших указаний."
+                    },
+                    {
+                        "source": "Center/Fiz",
+                        "target": "Center/Pha2",
+                        "weight": 43.499999999999886,
+                        "events": "Перед вами лестница. Сзади вас выход из корпуса с турникетами"
+                    },
+                    {
+                        "source": "Center/Pha2",
+                        "target": "Center/Fiz",
+                        "weight": 43.499999999999886,
+                        "events": ""
+                    },
+                    {
+                        "source": "Center/Fiz",
+                        "target": "Center/Pha1",
+                        "weight": 45.49999999999977,
+                        "events": "Перед вами лестница. Сзади вас выход из корпуса с турникетами"
+                    },
+                    {
+                        "source": "Center/Pha1",
+                        "target": "Center/Fiz",
+                        "weight": 45.49999999999977,
+                        "events": ""
+                    },
+                    {
+                        "source": "Center/Pha2",
+                        "target": "IRTSU/Pha2",
+                        "weight": 47.359684718339416,
+                        "events": "Поверните направо и Сделайте 14 шагов.  Остановитесь и ждите дальнейших указаний."
+                    },
+                    {
+                        "source": "IRTSU/Pha2",
+                        "target": "Center/Pha2",
+                        "weight": 47.359684718339416,
+                        "events": "Сделайте 14 шагов и поверните налево.  Остановитесь и ждите дальнейших указаний."
+                    },
+                    {
+                        "source": "Center/Pha1",
+                        "target": "ICTIS/Pha2",
+                        "weight": 54.657607321679,
+                        "events": "поверните налево и Сделайте 14 шагов.  Остановитесь и ждите дальнейших указаний."
+                    },
+                    {
+                        "source": "ICTIS/Pha2",
+                        "target": "Center/Pha1",
+                        "weight": 54.657607321679,
+                        "events": "Сделайте 14 шагов и поверните направо.  Остановитесь и ждите дальнейших указаний."
+                    },
+                    {
+                        "source": "ICTIS/Fiz",
+                        "target": "ICTIS/Pha1",
+                        "weight": 80.33655313854356,
+                        "events": ""
+                    },
+                    {
+                        "source": "ICTIS/Pha1",
+                        "target": "ICTIS/Fiz",
+                        "weight": 80.33655313854356,
+                        "events": ""
+                    },
+                    {
+                        "source": "ICTIS/Fiz",
+                        "target": "ICTIS/Pha2",
+                        "weight": 81.094377850273,
+                        "events": ""
+                    },
+                    {
+                        "source": "ICTIS/Pha2",
+                        "target": "ICTIS/Fiz",
+                        "weight": 81.094377850273,
+                        "events": ""
+                    },
+                    {
+                        "source": "ICTIS/Fiz",
+                        "target": "IRTSU/Pha2",
+                        "weight": 235.86208540705996,
+                        "events": "Сделайте 28 шагов вперед.  Остановитесь и ждите дальнейших указаний."
+                    },
+                    {
+                        "source": "IRTSU/Fiz",
+                        "target": "ICTIS/Pha2",
+                        "weight": 238.0381429517497,
+                        "events": "Сделайте 28 шагов вперед.  Остановитесь и ждите дальнейших указаний."
+                    },
+                    {
+                        "source": "ExitMain/Pha1",
+                        "target": "Center/Fiz",
+                        "weight": 70.43265669763751,
+                        "events": "Пройдите три шага до турникета и два шага после него. Попросите помощи что бы пойти. В вузе действует система пропусков. Осторожно, в конце маршрута уже начинается лестница, Не вспоткнитесь! Остановитесь и ждите дальнейших указаний."
+                    },
+                    {
+                        "source": "Center/Fiz",
+                        "target": "ExitMain/Pha1",
+                        "weight": 70.43265669763751,
+                        "events": "пройдите два шага до турникета и еще 3 шага после него"
+                    },
+                    {
+                        "source": "ExitMain/Pha1",
+                        "target": "ExitMain/Fiz",
+                        "weight": 77.50645134438798,
+                        "events": ""
+                    },
+                    {
+                        "source": "ExitMain/Fiz",
+                        "target": "ExitMain/Pha1",
+                        "weight": 77.50645134438798,
+                        "events": ""
+                    },
+                    {
+                        "source": "ExitMain/Fiz",
+                        "target": "ExitMain/Pha2",
+                        "weight": 71.00176054155266,
+                        "events": ""
+                    },
+                    {
+                        "source": "ExitMain/Pha2",
+                        "target": "ExitMain/Fiz",
+                        "weight": 71.00176054155266,
+                        "events": ""
+                    },
+                    {
+                        "source": "ExitMain/Pha2",
+                        "target": "ExitMain",
+                        "weight": 47.13013897709181,
+                        "events": "Вы прямо перед выходом из корпуса"
+                    },
+                    {
+                        "source": "ExitMain",
+                        "target": "ExitMain/Pha2",
+                        "weight": 47.13013897709181,
+                        "events": ""
+                    },
+                    {
+                        "source": "125/Pha2",
+                        "target": "ICTIS/Pha1",
+                        "weight": 100.49737517603108,
+                        "events": "Откройте дверь от себя и сделайте 2 шага вперед, далее спуститесь по лестнице из двух ступеней.  Остановитесь и ждите дальнейших указаний."
+                    },
+                    {
+                        "source": "ICTIS/Pha1",
+                        "target": "125/Pha2",
+                        "weight": 100.49737517603108,
+                        "events": "Сделайте два шага по лестнице из двух ступеней, после чего сделайте еще два шага и откройте дверь на себя.  Остановитесь и ждите дальнейших указаний."
+                    },
+                    {
+                        "source": "125/Fiz",
+                        "target": "125/Pha2",
+                        "weight": 44.398053685568364,
+                        "events": "Слева от вас аудитория Г-125"
+                    },
+                    {
+                        "source": "125/Pha2",
+                        "target": "125/Fiz",
+                        "weight": 44.398053685568364,
+                        "events": ""
+                    },
+                    {
+                        "source": "125/Fiz",
+                        "target": "125/Pha1",
+                        "weight": 49.99418162457726,
+                        "events": "Справа от вас аудитория Г-120"
+                    },
+                    {
+                        "source": "125/Pha1",
+                        "target": "125/Fiz",
+                        "weight": 49.99418162457726,
+                        "events": ""
+                    },
+                    {
+                        "source": "126/Pha2",
+                        "target": "125/Pha1",
+                        "weight": 56.58573810036784,
+                        "events": "Сделайте 5 шагов вперед.  Остановитесь и ждите дальнейших указаний."
+                    },
+                    {
+                        "source": "125/Pha1",
+                        "target": "126/Pha2",
+                        "weight": 56.58573810036784,
+                        "events": "Сделайте 5 шагов вперед.  Остановитесь и ждите дальнейших указаний."
+                    },
+                    {
+                        "source": "126/Pha2",
+                        "target": "126/Fiz",
+                        "weight": 57.036106662954985,
+                        "events": ""
+                    },
+                    {
+                        "source": "126/Fiz",
+                        "target": "126/Pha2",
+                        "weight": 57.036106662954985,
+                        "events": "Слева от вас аудитория Г-126, справа Г-127"
+                    },
+                    {
+                        "source": "126/Fiz",
+                        "target": "126/Pha1",
+                        "weight": 53.752525211657336,
+                        "events": "Слева от вас аудитория Г-127, справа Г-126"
+                    },
+                    {
+                        "source": "126/Pha1",
+                        "target": "126/Fiz",
+                        "weight": 53.752525211657336,
+                        "events": ""
+                    },
+                    {
+                        "source": "131/Pha2",
+                        "target": "126/Pha1",
+                        "weight": 54.41110520261689,
+                        "events": "Сделайте 15 шагов вперед.  Остановитесь и ждите дальнейших указаний."
+                    },
+                    {
+                        "source": "126/Pha1",
+                        "target": "131/Pha2",
+                        "weight": 54.41110520261689,
+                        "events": "Сделайте 15 шагов вперед.  Остановитесь и ждите дальнейших указаний."
+                    },
+                    {
+                        "source": "131/Pha2",
+                        "target": "131/Fiz",
+                        "weight": 58.82021397103297,
+                        "events": ""
+                    },
+                    {
+                        "source": "131/Fiz",
+                        "target": "131/Pha2",
+                        "weight": 58.82021397103297,
+                        "events": "Слева от вас аудитория Г-131"
+                    },
+                    {
+                        "source": "133/Pha2",
+                        "target": "131/Pha1",
+                        "weight": 55.09746898772553,
+                        "events": "сделайте 9 шагов вперед.  Остановитесь и ждите дальнейших указаний."
+                    },
+                    {
+                        "source": "131/Pha1",
+                        "target": "133/Pha2",
+                        "weight": 55.09746898772553,
+                        "events": "сделайте 9 шагов вперед.  Остановитесь и ждите дальнейших указаний."
+                    },
+                    {
+                        "source": "133/Pha1",
+                        "target": "133/Fiz",
+                        "weight": 49.68997671825709,
+                        "events": ""
+                    },
+                    {
+                        "source": "133/Fiz",
+                        "target": "133/Pha1",
+                        "weight": 49.68997671825709,
+                        "events": "Слева от вас аудитория Г-132, справа Г-133"
+                    },
+                    {
+                        "source": "133/Fiz",
+                        "target": "G133",
+                        "weight": 58.70765201550493,
+                        "events": "Поверните направо если вы пришли от Г131, если от Г135 то налево"
+                    },
+                    {
+                        "source": "133/Fiz",
+                        "target": "G132",
+                        "weight": 77.71111400359347,
+                        "events": "Поверните направо если вы пришли от Г135, если от г131 то налево"
+                    },
+                    {
+                        "source": "131/Fiz",
+                        "target": "G131",
+                        "weight": 62.61734856303787,
+                        "events": "Поверните направо если вы пришли от Г126, если от г133 то налево"
+                    },
+                    {
+                        "source": "126/Fiz",
+                        "target": "G127",
+                        "weight": 93.20436582176498,
+                        "events": "Поверните направо если вы пришли от Г131, если от г125 то налево"
+                    },
+                    {
+                        "source": "126/Fiz",
+                        "target": "G126",
+                        "weight": 72.01826632305914,
+                        "events": "Поверните направо если вы пришли от Г125, если от г131 то налево"
+                    },
+                    {
+                        "source": "125/Fiz",
+                        "target": "G125",
+                        "weight": 62.528579185523114,
+                        "events": "Поверните направо если вы пришли от центра, если от г126 то налево"
+                    },
+                    {
+                        "source": "133/Pha2",
+                        "target": "133/Fiz",
+                        "weight": 65.27471886452302,
+                        "events": ""
+                    },
+                    {
+                        "source": "133/Fiz",
+                        "target": "133/Pha2",
+                        "weight": 65.27471886452302,
+                        "events": "Слева от вас аудитория Г-133, справа Г-132"
+                    },
+                    {
+                        "source": "WCRight/Fiz",
+                        "target": "WCRight/Pha1",
+                        "weight": 82.90054282090057,
+                        "events": "Слева от вас аудитория Г-137, справа туалет"
+                    },
+                    {
+                        "source": "WCRight/Pha1",
+                        "target": "WCRight/Fiz",
+                        "weight": 82.90054282090057,
+                        "events": ""
+                    },
+                    {
+                        "source": "WCRight/Fiz",
+                        "target": "WCRight/Pha2",
+                        "weight": 112.78741064498261,
+                        "events": "справа от вас аудитория Г-137, слева туалет"
+                    },
+                    {
+                        "source": "WCRight/Pha2",
+                        "target": "WCRight/Fiz",
+                        "weight": 112.78741064498261,
+                        "events": ""
+                    },
+                    {
+                        "source": "139/Pha2",
+                        "target": "WCRight/Pha1",
+                        "weight": 59.656710671137574,
+                        "events": "сделайте 10 шагов вперед.  Остановитесь и ждите дальнейших указаний."
+                    },
+                    {
+                        "source": "WCRight/Pha1",
+                        "target": "139/Pha2",
+                        "weight": 59.656710671137574,
+                        "events": "сделайте 10 шагов вперед.  Остановитесь и ждите дальнейших указаний."
+                    },
+                    {
+                        "source": "139/Fiz",
+                        "target": "139/Pha1",
+                        "weight": 63.720091023161466,
+                        "events": "Справа от вас лестница"
+                    },
+                    {
+                        "source": "139/Pha1",
+                        "target": "139/Fiz",
+                        "weight": 63.720091023161466,
+                        "events": ""
+                    },
+                    {
+                        "source": "LadderR/Pha2",
+                        "target": "139/Pha1",
+                        "weight": 62.50799948806532,
+                        "events": "сделайте 11 шагов вперед.  Остановитесь и ждите дальнейших указаний."
+                    },
+                    {
+                        "source": "139/Pha1",
+                        "target": "LadderR/Pha2",
+                        "weight": 62.50799948806532,
+                        "events": "сделайте 11 шагов вперед.  Остановитесь и ждите дальнейших указаний."
+                    },
+                    {
+                        "source": "LadderR/Pha2",
+                        "target": "LadderR/Fiz",
+                        "weight": 51.88448708429125,
+                        "events": ""
+                    },
+                    {
+                        "source": "LadderR/Fiz",
+                        "target": "LadderR/Pha2",
+                        "weight": 51.88448708429125,
+                        "events": "Слева от вас лестница"
+                    },
+                    {
+                        "source": "LadderR/Fiz",
+                        "target": "LadderR/Pha1",
+                        "weight": 52.99528280894433,
+                        "events": "Справа от вас лестница"
+                    },
+                    {
+                        "source": "LadderR/Pha1",
+                        "target": "LadderR/Fiz",
+                        "weight": 52.99528280894433,
+                        "events": ""
+                    },
+                    {
+                        "source": "WCRight/Fiz",
+                        "target": "WCRight",
+                        "weight": 55.41855844253298,
+                        "events": "Поверните направо если вы пришли от Г135, если от г139 то налево"
+                    },
+                    {
+                        "source": "WCRight/Fiz",
+                        "target": "G137",
+                        "weight": 52.97506725355428,
+                        "events": "Поверните направо если вы пришли от Г139, если от г135 то налево"
+                    },
+                    {
+                        "source": "139/Fiz",
+                        "target": "G139",
+                        "weight": 59.41193381980276,
+                        "events": "Поверните направо если вы пришли от туалета, если от лестницыто налево"
+                    },
+                    {
+                        "source": "135/Pha2",
+                        "target": "135/Fiz",
+                        "weight": 71.63494382271438,
+                        "events": ""
+                    },
+                    {
+                        "source": "135/Fiz",
+                        "target": "135/Pha2",
+                        "weight": 71.63494382271438,
+                        "events": "Справа от вас аудитория Г135"
+                    },
+                    {
+                        "source": "135/Pha1",
+                        "target": "WCRight/Pha2",
+                        "weight": 63.789590203035175,
+                        "events": "поверните направо и сделайте 7 шагов вперед.  Остановитесь и ждите дальнейших указаний."
+                    },
+                    {
+                        "source": "WCRight/Pha2",
+                        "target": "135/Pha1",
+                        "weight": 63.789590203035175,
+                        "events": "сделайте 7 шагов вперед.  Остановитесь и ждите дальнейших указаний."
+                    },
+                    {
+                        "source": "135/Pha1",
+                        "target": "135/Fiz",
+                        "weight": 81.05657151152005,
+                        "events": ""
+                    },
+                    {
+                        "source": "135/Fiz",
+                        "target": "135/Pha1",
+                        "weight": 81.05657151152005,
+                        "events": "Перед вами аудитория Г135"
+                    },
+                    {
+                        "source": "135/Pha2",
+                        "target": "133/Pha1",
+                        "weight": 46.094994886706985,
+                        "events": "поверните налево сделайте 13 шагов вперед.  Остановитесь и ждите дальнейших указаний."
+                    },
+                    {
+                        "source": "133/Pha1",
+                        "target": "135/Pha2",
+                        "weight": 46.094994886706985,
+                        "events": "сделайте 13 шагов вперед.  Остановитесь и ждите дальнейших указаний."
+                    },
+                    {
+                        "source": "135/Fiz",
+                        "target": "G135",
+                        "weight": 47.2632913832155,
+                        "events": "Поверните направо если вы пришли от туалета, если от Г133 то поворачивать не надо"
+                    },
+                    {
+                        "source": "LadderR/Pha1",
+                        "target": "LadderR",
+                        "weight": 67.18473509112815,
+                        "events": ""
+                    },
+                    {
+                        "source": "Pereval",
+                        "target": "WCLeft/Pha2",
+                        "weight": 138.18803450693946,
+                        "events": ""
+                    },
+                    {
+                        "source": "WCLeft/Pha2",
+                        "target": "Pereval",
+                        "weight": 138.18803450693946,
+                        "events": "Сделайте 12 шагов вперед.  Остановитесь и ждите дальнейших указаний."
+                    },
+                    {
+                        "source": "Pereval",
+                        "target": "111/Pha1",
+                        "weight": 119.89917720495231,
+                        "events": ""
+                    },
+                    {
+                        "source": "111/Pha1",
+                        "target": "Pereval",
+                        "weight": 119.89917720495231,
+                        "events": "Сделайте 12 шагов вперед.  Остановитесь и ждите дальнейших указаний."
+                    },
+                    {
+                        "source": "103/Pha1",
+                        "target": "G103",
+                        "weight": 81.12161955514408,
+                        "events": ""
+                    },
+                    {
+                        "source": "103/Pha1",
+                        "target": "G101",
+                        "weight": 53.46826466979082,
+                        "events": ""
+                    },
+                    {
+                        "source": "139/Fiz",
+                        "target": "139/Pha2",
+                        "weight": 61.616038256091,
+                        "events": "Слева от вас аудитория Г-139"
+                    },
+                    {
+                        "source": "139/Pha2",
+                        "target": "139/Fiz",
+                        "weight": 61.616038256091,
+                        "events": ""
+                    },
+                    {
+                        "source": "131/Pha1",
+                        "target": "131/Fiz",
+                        "weight": 63.546326126627115,
+                        "events": ""
+                    },
+                    {
+                        "source": "131/Fiz",
+                        "target": "131/Pha1",
+                        "weight": 63.546326126627115,
+                        "events": "Справа от вас аудитория Г131"
+                    },
+                    {
+                        "source": "115/Pha1",
+                        "target": "110/Fiz",
+                        "weight": 97.51390342435563,
+                        "events": "Сделайте 17 шагов вперед.  Остановитесь и ждите дальнейших указаний."
+                    },
+                    {
+                        "source": "110/Fiz",
+                        "target": "115/Pha1",
+                        "weight": 97.51390342435563,
+                        "events": "Сделайте 17 шагов вперед.  Остановитесь и ждите дальнейших указаний."
+                    }
+                ]
+            }
+        ],
+        "plans": [
+            {
+                "url": "",
+                "offset": {
+                    "x": -3,
+                    "y": -21
+                }
+            }
+        ],
+        "phantomCount": 723,
+        "isCtrlPressed": false,
+        "isShiftPressed": false,
+        "isFloorSwitched": false,
+        "isPlanOpen": false,
+        "isSettingsOpen": false,
+        "appSettings": {
+            "defaultPhantomId": 1
+        },
+        "settings": {
+            "nodeHighlightBehavior": true,
+            "staticGraphWithDragAndDrop": true,
+            "directed": true,
+            "height": "600",
+            "width": "1000",
+            "node": {
+                "color": "lightgreen",
+                "size": 120,
+                "highlightStrokeColor": "blue",
+                "renderLabel": true
+            },
+            "link": {
+                "highlightColor": "lightblue",
+                "strokeWidth": 4
+            }
+        }
+    }
+}

@@ -32,6 +32,7 @@
     "@types/multer": "^1.4.7",
     "@types/passport-jwt": "^3.0.8",
     "@types/passport-local": "^1.0.34",
+    "fs-js": "^1.0.6",
     "passport": "^0.6.0",
     "passport-jwt": "^4.0.1",
     "passport-local": "^1.0.0",
